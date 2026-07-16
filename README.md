@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=2F9FE2&width=440&height=28&lines=Hi+👋+I'm+Why..;C%2B%2B+Developer..;Building+Real-Time+Simulation+Systems..&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=2F9FE2&width=440&height=28&lines=Hi+👋+I'm+Aman..;C%2B%2B+Developer..; Building+Real-Time+Simulation+Systems..&center=true"></a>
 </p>
 
 ## 👋 About Me
@@ -70,10 +70,7 @@ I'm a **C++ Developer** focused on real-time simulation, systems programming, an
 ![](https://github-readme-stats.vercel.app/api?username=Negi2110&theme=radical&border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Negi2110&theme=radical&hide_border=false)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Negi2110&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ## 📫 Connect With Me
-📩 Reach me at **[your email here]**
+📩 Reach me at **negi.aman5000@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Negi2110&label=Profile%20views&color=2F9FE2&style=flat" alt="Negi2110" /> </p>
