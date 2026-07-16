@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?color=2F9FE2&width=440&height=28&lines=Hi+👋+I'm+Aman..;C%2B%2B+Developer..;Building+Real-Time+Simulation+Systems..&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=2F9FE2&width=440&height=28&lines=Hi%F0%9F%91%8B+I%27m+Aman..;C%2B%2B+Developer..;Building+Real-Time+Simulation+Systems..&center=true"></a>
 </p>
 
 ## 👋 About Me
