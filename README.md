@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=2F9FE2&width=440&height=28&lines=Hi+👋+I'm+Aman..;C%2B%2B+Developer..; Building+Real-Time+Simulation+Systems..&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=2F9FE2&width=440&height=28&lines=Hi+👋+I'm+Aman..;C%2B%2B+Developer..;Building+Real-Time+Simulation+Systems..&center=true"></a>
 </p>
 
 ## 👋 About Me
@@ -9,11 +9,16 @@ I'm a **C++ Developer** focused on real-time simulation, systems programming, an
 
 ## 💼 Work Experience
 ### 💻 C++ Developer
-📍 **Oxygen 2 Innovation (O2I) | 2024 – Present**
-- Working on **ISSST** (Indigenous Scenario and Sensor Simulation Toolkit), an indigenous defence simulation application developed for CABS DRDO.
-- Implementing the **DIS IEEE 1278.1** protocol for multi-machine LAN networking across a 4-PC demonstration environment.
-- Building with **Qt 5.15**, focused on real-time simulation and **DO-178C / DAL B** safety compliance.
-- Actively developing the ISSST/TDF DIS plugin against a 22–26 week DRDO implementation roadmap spanning six stages.
+📍 **Oxygen 2 Innovation (O2I) | May 2025 – Present**
+- Developing a **real-time simulation engine for war scenarios and sensor systems**, with ownership of the **Network** and **AESA Radar** modules.
+- Implementing the **DIS IEEE 1278.1** protocol for real-time multi-machine LAN networking across a distributed simulation environment.
+- Building with **Qt 5.15**, focused on real-time simulation performance and **DO-178C / DAL B** safety compliance.
+- Delivering feature milestones on a structured, phase-wise development roadmap from requirements through integration testing.
+
+### 🧑‍💻 Web Development Intern
+📍 **Apex Byte | May 2024 – September 2024**
+- Worked on web development projects during a 3-month internship.
+- Gained hands-on experience with full-stack web development practices.
 
 ## 🚀 Projects
 - **[DevPulse](#)** — Qt5 service monitor with async checkers, Prometheus metrics endpoint, webhook alerts, `QPluginLoader` plugin system, and GitHub Actions CI.
@@ -26,14 +31,29 @@ I'm a **C++ Developer** focused on real-time simulation, systems programming, an
 
 ## 🛠️ Tech Stack
 <p align="left">
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/>
+  </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <a href="https://www.sourceware.org/gdb/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-GDB-black?style=for-the-badge&logo=gnu&logoColor=white" alt="gdb" height="40"/>
   </a>
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/>
+  <a href="https://github.com/google/googletest" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Google%20Test-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="googletest" height="40"/>
+  </a>
+  <a href="https://doc.qt.io/qt-5/qtest-overview.html" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-QTest-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="qtest" height="40"/>
+  </a>
+  <a href="https://valgrind.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Valgrind-3253A6?style=for-the-badge" alt="valgrind" height="40"/>
+  </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark" height="40"/>
   </a>
   <a href="https://cmake.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/>
@@ -49,12 +69,6 @@ I'm a **C++ Developer** focused on real-time simulation, systems programming, an
   </a>
   <a href="https://www.github.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
   </a>
 </p>
 
