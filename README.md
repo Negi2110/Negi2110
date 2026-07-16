@@ -30,6 +30,8 @@ I'm a **C++ Developer** focused on real-time simulation, systems programming, an
 - Contributor to [**DB Browser for SQLite**](https://github.com/sqlitebrowser/sqlitebrowser).
 
 ## 🛠️ Tech Stack
+**Qt · C++ · GDB · Google Test · QTest · Valgrind · JavaScript · MySQL · Wireshark · CMake · SQLite · Linux · Git**
+
 <p align="left">
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/>
@@ -51,6 +53,9 @@ I'm a **C++ Developer** focused on real-time simulation, systems programming, an
   </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark" height="40"/>
